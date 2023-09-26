@@ -5,3 +5,11 @@ Welcome to JumprPak with the intention of giving you a jumpstart on building the
 ## MySQL Database Migration
 
 Located in the `migrations` directory, there is a tables directory that contains the SQL files for all tables. This migrations will be run in the `docker-compose` file. The SQL can also be used to be run manually.
+
+### Technologies Used
+
+- Node
+- TypeScript
+- Express
+- MySQL
+- Yarn
