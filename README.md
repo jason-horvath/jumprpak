@@ -13,3 +13,5 @@ Located in the `migrations` directory, there is a tables directory that contains
 - Express
 - MySQL
 - Yarn
+
+**NOTE:** Feel free to contribute if you'd like as this is a basic work in progress.
