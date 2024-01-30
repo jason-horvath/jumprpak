@@ -14,4 +14,13 @@ Located in the `migrations` directory, there is a tables directory that contains
 - MySQL
 - Yarn
 
+### Path Aliases
+
+Path aliasing has been set up to use the `_` character to refernce internal portions of the repository.
+
+Files where aliases are setup:
+
+- `tsconfig.json`
+- `package.json`
+
 **NOTE:** Feel free to contribute if you'd like as this is a basic work in progress.
