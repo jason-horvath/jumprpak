@@ -1,6 +1,6 @@
 # JumprPak
 
-Welcome to JumprPak with the intention of giving you a jumpstart on building the endpoints that actually matter to your application. This is basically a something to provider a good starting point by providing patterns and solutions for authentication, database connection, email, and validation.
+Welcome to JumprPak with the intention of giving you a jumpstart on building the endpoints that actually matter to your application, or at least get closer to it. This is basically something to provide a good starting point by using patterns and solutions for authentication, database connection, email, and validation.
 
 ## MySQL Database Migration
 
